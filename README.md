@@ -3,6 +3,8 @@
 ## Javascript
 There is a trifecta of programming languages that are near universally used all over the Internet: HTML, CSS, and Javascript. The first two of these manipulate the physical attributes of webpages, i.e. deal with the visible structure of pages on the Internet; the third one, Javascript, imbues web pages with dynamism by making them interactive with user actions. Javascript acts as a "man behind the curtain" in that it is largely unseenwhile responsible for many of the user-side aspects of the online experience. For one, Javascript events are responsible for making websites responsive to user actions ranging from resizing resizing pages to fit different screen sizes to responding to user actions as simple as clicking a button. 
 
+![](images/nasa.jpg) 
+
 ## Data Analysis in Javascript
 Generally speaking, Javascript doesn't have much to offer the typical data analyst, unlike Python with the functionality of the Pandas library. In Python, Pandas handles the presentation and organization of data, as well as most of the manipulations that can be performed on the data. Javascript has no exact analogue to a Pandas dataframe; but this project demonstrates how a Bootstrap table and Javascript data functions compensate for this. Javascript has multiple built-in functions: map functions extract object entries, perform manipulatios to each targeted entry, then return a new array. the For Each function specifies an alternative way to write functions in Javasscript. filter functions set selection criteria for winnowing a dataset.  
 
